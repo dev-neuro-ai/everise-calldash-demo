@@ -1,0 +1,10 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Azure Functions for orbit-techsol",
+  "scripts": {},
+  "dependencies": {
+    "livekit-server-sdk": "^2.9.7"
+  },
+  "devDependencies": {}
+}
